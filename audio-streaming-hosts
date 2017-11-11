@@ -1,0 +1,19 @@
+# Audio Streaming Hosts
+# Updated 11 Nov 2017
+
+#BBC iPlayer Radio
+0.0.0.0 www.bbc.co.uk/radio
+0.0.0.0 bbc.co.uk/radio
+
+# Pandora
+0.0.0.0 pandora.com
+0.0.0.0 www.pandora.com
+
+# Spotify
+0.0.0.0 www.spotify.com
+0.0.0.0 spotify.com
+
+# SoundCloud
+0.0.0.0 soundcloud.com
+0.0.0.0 m.soundcloud.com
+0.0.0.0 www.soundcloud.com
