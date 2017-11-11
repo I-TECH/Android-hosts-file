@@ -1,0 +1,49 @@
+# Video Streaming Hosts
+# Updated 11 Nov 2017
+
+# YouTube
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+
+# ErosNow
+0.0.0.0 erosnow.com
+0.0.0.0 www.erosnow.com
+
+# Vimeo
+0.0.0.0 vimeo.com
+0.0.0.0 www.vimeo.com
+
+# Netflix
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+
+# HBOGo
+0.0.0.0 hbogo.com
+0.0.0.0 play.hbogo.com
+0.0.0.0 www.hbogo.com
+
+# HBONow
+0.0.0.0 hbonow.com
+0.0.0.0 www.hbonow.com
+
+# Hulu
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+
+# Vevo
+0.0.0.0 vevo.com
+0.0.0.0 www.vevo.com
+
+# Twitch
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 m.twitch.tv
+
+# Crackle
+0.0.0.0 crackle.com
+0.0.0.0 www.crackle.com
+0.0.0.0 m.crackle.com
+
+# Sling
+0.0.0.0 www.sling.com
